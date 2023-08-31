@@ -1,7 +1,7 @@
 # Kadir Tereci
 ### Software Engineer
 
-⤷ I am a 3 years experienced full stack engineer with a strong background in technologies such as TypeScript, ReactJS, NodeJS, NestJS, GraphQL, TypeORM, Prisma, Postgres... I have experience in building and maintaining large-scale web applications using these technologies and expertise in database management and deployment.
+⤷ I am a 4 years experienced full stack engineer with a strong background in technologies such as TypeScript, ReactJS, NodeJS, NestJS, GraphQL, TypeORM, Prisma, Postgres... I have experience in building and maintaining large-scale web applications using these technologies and expertise in database management and deployment.
 
 I am always eager to learn new technologies and tools to enhance my skills.
 
